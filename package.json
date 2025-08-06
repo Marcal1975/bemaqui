@@ -1,0 +1,9 @@
+{
+  "name": "patrimonio-pomerode",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sistema de patrimônio - catálogo + solicitações com Vercel Functions + Vercel Postgres",
+  "dependencies": {
+    "@vercel/postgres": "0.8.0"
+  }
+}
